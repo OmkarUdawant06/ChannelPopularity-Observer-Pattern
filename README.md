@@ -1,7 +1,6 @@
 # CSX42: Assignment 2
 ## Name: Omkar Udawant
 
-## redeem 1 slack day
 -----------------------------------------------------------------------
 
 Following are the commands and the instructions to run ANT on your project.
